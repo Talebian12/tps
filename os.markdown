@@ -16,4 +16,6 @@ Abbiamo poi dei componenti più di alto livello come:
 - Gestore delle Periferiche: esso gestisce le periferiche di input e output come mouse e tastiera, sfrutta i driver e le funzioni del kernel per comunicare con la macchina
 - Interfaccia Utente: essa può essere testuale o grafica, la prima utilizzabile su monitor o console seriale, la seconda invece sfrutta tutte le funzioni grafiche di una scheda video per "disegnare" il video sul monitor. Le interfacce grafiche sono ad esempio Explorer su Windows, Quartz su macOS e i desktop environment come GNOME o KDE su GNU/Linux.
 
+![os](/assets/images/operating_systems.svg)
+
 Il Sistema Operativo fornisce poi strumenti utili ai programmi, le API, che in altro caso potrebbero utilizzare solo funzioni basilari della macchina, invece grazie al Sistema Operativo hanno accesso alle così dette System Call, funzioni con cui un programma può chiamnare direttamente funzionalità del kernel, come Write e Read. Questi set di System Call si chiama ABI (Application Binary Interface).   
