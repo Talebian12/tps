@@ -3,6 +3,7 @@ layout: page
 title: Sistemi Operativi
 permalink: /os
 ---
+# Il Sistema Operativo
 
 Il Sistema Operativo è un software di base, cioè uno dei software fondamentali per l'uso di un elaboratore. Esso è composto da svariate componenti software, le quali hanno a se le principali funzioni operative:
 - Bootloader: primo componente avviato dal firmware durante la fase di avvio. Esso ha il compito di inizializzare l'hardware base (memory layout, configurare la protected mode a 32bit, ecc.) e infine caricare il Kernel.

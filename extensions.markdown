@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Files
+title: Estensioni File
 permalink: /ext
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Files
+title: Partizioni
 permalink: /os/partitions
 ---
 
