@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scheduler
-permalink: /os/scheduler
+permalink: /os/scheduler/
 ---
 
 # Scheduler della CPU

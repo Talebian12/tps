@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partizioni
-permalink: /os/partitions
+permalink: /os/partitions/
 ---
 
 # Partizioni

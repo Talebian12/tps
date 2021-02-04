@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sistemi Operativi
-permalink: /os
+permalink: /os/
 ---
 # Il Sistema Operativo
 

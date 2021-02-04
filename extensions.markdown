@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estensioni File
-permalink: /ext
+permalink: /ext/
 ---
 
 # Le estensioni File
