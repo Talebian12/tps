@@ -13,7 +13,7 @@ il sistema operativo_.
 
 ![astrazione](/assets/images/abstraction_file.svg)
 
-## Caratteristiche
+## Proprietà di un file
 Il filesystem gestisce le varie proprietà di un file tramite un sistema di permessi, per esempio, i sistemi unix gestiscono i permessi in
 questo modo:
 - Per categoria: _User, Group, Other_
@@ -24,7 +24,7 @@ questo modo:
   modifica, rinomina, spostamento ed eliminazione di un file) e **di esecuzione** (se possibile, questo per eseguibili o scripts).
 
 ![permessi](/assets/images/permissions.svg)
-
+## Caratteristiche di un file
 I files possono avere varie caratteristiche:
 - Possono essere **scrivibili**, quindi si può creare e scrivere su un file.
 - Possono essere **modificabili**, quindi dopo la scrittura, la sua struttura può essere modificata.

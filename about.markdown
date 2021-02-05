@@ -3,8 +3,7 @@ layout: page
 title: Info
 permalink: /info/
 ---
-
-Pagina web per la pubblicazione di contenuti, sotto una forma simil-documentazione.
+Gran parte degli schemi sono fatti a mano, tranne quelli sullo Scheduling, provenienti dal libro Modern Operating Systems di Andrew Tanenbaum.
 
 Fonti per gli appunti:
 - **Modern operating systems** - _Andrew S. Tanenbaum, Herbert Bos_
