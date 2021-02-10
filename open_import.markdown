@@ -14,7 +14,7 @@ Le operazioni di apertura ed importazione, entrambe permettono di caricare un fi
 L'apertura di un file è l'operazione di apertura di un file tramite un programma predefinito per il tipo di file. Esso quindi, in base
 all'estensione di esso, usa un programma compatibile e che possa comprendere quel tipo di file.
 
-![open](/assets/images/open_file.svg)
+![open](/assets/images/file_open.svg)
 
 Per esempio queste associazioni:
 * .jpg,.png,.bmp: Visualizzatore di Immagini
@@ -29,4 +29,4 @@ Importare un file non è come l'apertura, l'importazione di un file in un progra
 un programma e ne adatta la struttura a quella del programma. Ad esempio, possiamo avere un file CAD per progetto 3D, se lo importiamo
 in un programma CAD 2D, lui lo adatterà alla sua struttura, così da vederlo sullo stesso programma.
 
-![import](/assets/images/import_file.svg)
+![import](/assets/images/file_import.svg)
