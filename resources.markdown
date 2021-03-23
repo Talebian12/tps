@@ -1,7 +1,7 @@
 ---
 layout: page
 title: System Resources
-permalink: /memmgmt
+permalink: /memmgmt/
 ---
 
 # System Resources

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: System Call
-permalink: /syscall
+permalink: /syscall/
 ---
 
 # Le System Call

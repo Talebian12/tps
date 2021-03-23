@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Struttura ed Architettura del PC
-permalink: /arch
+permalink: /arch/
 ---
 
 # Struttura ed Architettura del PC

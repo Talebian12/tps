@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Central Processing Unit
-permalink: /cpu
+permalink: /cpu/
 ---
 
 # Central Processing Unit

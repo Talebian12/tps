@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Il Kernel
-permalink: /kernel
+permalink: /kernel/
 ---
 
 # Il Kernel

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Memory Management
-permalink: /memmgmt
+permalink: /memmgmt/
 ---
 
 # Memory Management
