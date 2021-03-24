@@ -6,7 +6,7 @@ has_toc: false
 nav_order: 4
 ---
 
-### Sistemi Operativi
+# Sistemi Operativi
 * [Caratteristiche generali di un Sistema Operativo](os.markdown)
 * [Kernel](kernel.markdown)
 * [Mulitasking o Multiprogrammazione](multitasking.markdown)
