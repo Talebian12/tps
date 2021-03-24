@@ -3,6 +3,7 @@ layout: page
 title: Partizioni
 permalink: /partitions/
 parent: Sistemi Operativi
+nav_order: 6
 ---
 
 # Partizioni

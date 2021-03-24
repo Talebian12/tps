@@ -3,6 +3,7 @@ layout: page
 title: System Call
 permalink: /syscall/
 parent: Sistemi Operativi
+nav_order: 5
 ---
 
 # Le System Call

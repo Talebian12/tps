@@ -3,6 +3,7 @@ layout: page
 title: Apertura ed Importazione
 permalink: /openimport/
 parent: Files
+nav_order: 2
 ---
 
 # Differenza tra Apertura di un file ed Importazione

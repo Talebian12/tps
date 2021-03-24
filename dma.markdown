@@ -3,6 +3,7 @@ layout: page
 title: Direct Memory Access
 permalink: /dma/
 parent: Struttura ed Architettura del PC
+nav_order: 3
 ---
 
 # Direct Memory Access

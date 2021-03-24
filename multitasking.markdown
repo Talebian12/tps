@@ -3,6 +3,7 @@ layout: page
 title: Multitasking
 permalink: /multitasking/
 parent: Sistemi Operativi
+nav_order: 2
 ---
 
 # Multitasking

@@ -3,6 +3,7 @@ layout: page
 title: Memorie 
 permalink: /memories/
 parent: Struttura ed Architettura del PC
+nav_order: 2
 ---
 
 # Le Memorie

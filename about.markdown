@@ -2,7 +2,7 @@
 layout: page
 title: Info
 permalink: /info/
-nav_order: 100
+nav_order: 5
 ---
 Gran parte degli schemi sono fatti a mano, tranne quelli sullo Scheduling, provenienti dal libro Modern Operating Systems di Andrew Tanenbaum.
 

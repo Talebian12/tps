@@ -3,6 +3,7 @@ layout: page
 title: Memory Management
 permalink: /memmgmt/
 parent: Sistemi Operativi
+nav_order: 4
 ---
 
 # Memory Management

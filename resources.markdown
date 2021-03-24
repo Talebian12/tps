@@ -3,6 +3,7 @@ layout: page
 title: System Resources
 permalink: /sysresources/
 parent: Sistemi Operativi
+nav_order: 7
 ---
 
 # System Resources

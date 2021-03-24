@@ -3,6 +3,7 @@ layout: page
 title: Scheduler
 permalink: /os/scheduler/
 parent: Sistemi Operativi
+nav_order: 3
 ---
 
 # Scheduler della CPU

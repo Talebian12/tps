@@ -3,6 +3,7 @@ layout: page
 title: Kernel
 permalink: /kernel/
 parent: Sistemi Operativi
+nav_order: 1
 ---
 
 # Il Kernel
