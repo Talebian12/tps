@@ -2,6 +2,7 @@
 layout: page
 title: Sistema Operativo
 permalink: /os/os
+parent: Sistemi Operativi
 nav_order: 1
 ---
 # Il Sistema Operativo
