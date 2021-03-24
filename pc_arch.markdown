@@ -5,6 +5,7 @@ permalink: /arch/
 has_children: true
 has_toc: false
 nav_order: 3
+parent: Struttura ed Architettura del PC
 ---
 
 # Struttura ed Architettura del PC
