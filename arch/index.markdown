@@ -3,5 +3,12 @@ layout: default
 title: Computer Architecture
 has_children: true
 has_toc: false
-nav_order: 1
+nav_order: 2
 ---
+
+# Architettura del Computer
+* [Struttura generale di un Elaboratore](pc_arch.markdown)
+* [La CPU](cpu.markdown)
+* [Le Memorie](memories.markdown)
+* [Il DMA e SPOOL](dma.markdown)
+* [Il Linguaggio Macchina](asm.markdown)
