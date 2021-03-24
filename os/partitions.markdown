@@ -13,7 +13,7 @@ La partizione di un disco è una suddivisione logica del supporto fisico. Detto 
 ## Esempio di partizionamento di un disco
 
 Un esempio di partizionamento sui sistemi Linux è questo, un disco, due partizioni:
-![partitions](/assets/images/partition_scheme.svg)
+![partitions](../assets/images/partition_scheme.svg)
 
 In pratica il nome del disco, fisico, è /dev/sda, la sua dimensione è 256GB, poi è partizionato in due dischi logici, /dev/sda1 e /dev/sda2, il primo 108GB e il secondo 148GB. Questi due dischi non esistono fisicamente ma solo logicamente.
 

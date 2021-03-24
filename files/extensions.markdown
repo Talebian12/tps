@@ -10,7 +10,7 @@ nav_order: 2
 
 Un File quando viene salvato, possiede due caratteristiche fondamentali, il nome del file e l'estensione file, separati da un '.'.
 
-![ext](/assets/images/file_ext.svg)
+![ext](../assets/images/file_ext.svg)
 
 ## Nome di un file
 Le caratteristiche del nome di un File dipendono dal File System in uso, esso può essere:

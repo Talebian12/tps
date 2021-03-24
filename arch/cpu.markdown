@@ -2,7 +2,7 @@
 layout: page
 title: Central Processing Unit
 permalink: /arch/cpu/
-parent: Struttura ed Architettura del PC
+parent: Computer Architecture
 nav_order: 2
 ---
 
@@ -25,7 +25,7 @@ Nei moderni processori abbiamo 3 tipologie di registri, i registri specifici, i 
 
 _La lettera R prima dei nomi dei registri è dovuta al fatto che l'immagina parla implicitamente dell'architettura x86-64, la quale distingue i registri dalle precedenti dalla dicitura R-NOMEREGISTRO_
 
-![CPUREG](assets/images/8664registers.jpg)
+![CPUREG](../assets/images/8664registers.jpg)
 
 ### Control Unit
 
@@ -38,11 +38,11 @@ mov dx, ax
 ```
 La CU prima decodificherà la prima istruzione, quindi copierà nel registro AX il valore 5; eseguita questa istruzione, sarà sempre compito della CU incrementare l'IP (Instruction Pointer) e passare quindi all'istruzione successiva, dove copierà il valore di AX dentro DX.
 
-![execute](assets/images/execution.svg)
+![execute](../assets/images/execution.svg)
 
 Quindi si inizia l'esecizione da _Start_, quindi la _CU_ prenderà il controllo, dalla prima istruzione, quindi dove è stato settato l'_IP_ allo Start. la prima istruzione verrà quindi trovata `mov ax, 5`, verrà decodificata ed eseguita. Finita l'esecuzione la CU eseguirà lo step di incremento del _IP_, così la CU passerà all'istruzione successiva; questa sequenza cambia in caso di salto incondizionato.
 
-![execjmp](assets/images/execjmp.svg)
+![execjmp](../assets/images/execjmp.svg)
 
 ### Arithmetic Logic Unit
 

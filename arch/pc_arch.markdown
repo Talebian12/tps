@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Struttura ed Architettura del PC
-permalink: /arch/arch
+permalink: /arch/arch/
 parent: Computer Architecture
 nav_order: 1
 ---

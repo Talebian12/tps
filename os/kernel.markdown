@@ -15,7 +15,7 @@ In Kernel Mode si ha quindi il massimo livello di permessi, questo implica quind
 
 ### **Esempio di kernel, Windows NT**
 
-![windowsnt](assets/images/windowsnt.png)
+![windowsnt](../assets/images/windowsnt.png)
 
 ### Kernel Monolitici
 In un kernel monolitico tutti iservizi di sistema e drivers girano nel kernel, questi vengono chiamati moduli. I moduli possono essere 

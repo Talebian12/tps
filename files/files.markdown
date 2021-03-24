@@ -1,7 +1,7 @@
 ---
 layout: page
 title: File
-permalink: /files/file
+permalink: /files/file/
 parent: Files
 nav_order: 1
 ---

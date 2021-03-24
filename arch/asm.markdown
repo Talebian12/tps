@@ -2,7 +2,7 @@
 layout: page
 title: Linguaggio Macchina e Assembly 
 permalink: /arch/assembly/
-parent: Struttura ed Architettura del PC
+parent: Computer Architecture
 nav_order: 5
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Memorie 
 permalink: /arch/memories/
-parent: Struttura ed Architettura del PC
+parent: Computer Architecture
 nav_order: 3
 ---
 
@@ -12,7 +12,7 @@ In un PC la memoria è una delle componenti fondamentali. Le memorie servono sia
 
 La rappresentazione gerarchica dei tipi di memorie si chiama **Gerarchia delle Memorie**
 
-![mem](assets/images/memoryhierarchy.png)
+![mem](../assets/images/memoryhierarchy.png)
 
 ## Memorie Volatili
 

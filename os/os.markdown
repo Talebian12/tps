@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sistema Operativo
-permalink: /os/os
+permalink: /os/os/
 parent: Sistemi Operativi
 nav_order: 1
 ---
@@ -24,7 +24,7 @@ Lo scheduler CPU gestisce i processi e il momento in cui devono essere eseguiti.
 ### File System
 Il File System è responsabile per l'organizzazione, mantenimento e memorizzazione dei file su disco. Lo schema di file, directory e subdirectory è dato dal File System.
 
-![os](/assets/images/operating_systems.svg) 
+![os](../assets/images/operating_systems.svg) 
 
 Abbiamo poi dei componenti più di alto livello come:
 
@@ -40,6 +40,6 @@ Essa può essere testuale o grafica, la prima utilizzabile su monitor o console 
 
 Tutti queste componenti fanno parte di determinati livelli del sistema operativo, lo schema che rappresenta questo sistema a livelli è chiamato _onion-skin_, buccia di cipolla, quindi a partire dal livello più interno, il Kernel, si arriva al più esterno, il livello applicativo.
 
-![onionskin](assets/images/onionskingarch.jpg)
+![onionskin](../assets/images/onionskingarch.jpg)
 
 Il livello più interno è appunto il kernel, che ha i massimi privilegi (_Hypervisor Mode_), e verso l'esterno arrviamo al livello applicativo (_User Mode_) dove si hanno i privilegi più bassi.

@@ -2,7 +2,7 @@
 layout: page
 title: Direct Memory Access
 permalink: /arch/dma/
-parent: Struttura ed Architettura del PC
+parent: Computer Architecture
 nav_order: 4
 ---
 

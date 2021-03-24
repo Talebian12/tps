@@ -19,7 +19,7 @@ Nei sistemi _batch_ non ci si prende in considerazioni situazioni multiutente, c
 ### Time Sharing
 Nei sistemi _time-sharing_ si permette invece un corretto funzionamento della multiutenza, rendendo il sistema interattivo alle azioni degli utenti. Questo tipo è quello predominante nei sistemi moderni.
 
-![multitasking](assets/images/multitasking.png)
+![multitasking](../assets/images/multitasking.png)
 
 Come possiamo vedere, in un sistema sequenziale, quindi monoprogrammato, i task vengono eseguiti uno per volta; nei momenti di uso della CPU non avvengono operazioni di I/O, viceversa durante i momenti di uso dell'I/O. Questa cosa non avviene nei sistemi multiprogrammati, dove le operazioni vengono eseguite in simultanea tra CPU e I/O, così da poter ridurre i tempi e massimizzare l'efficienza.
 
