@@ -36,10 +36,16 @@ mov dx, ax
 ```
 La CU prima decodificherà la prima istruzione, quindi copierà nel registro AX il valore 5; eseguita questa istruzione, sarà sempre compito della CU incrementare l'IP (Instruction Pointer) e passare quindi all'istruzione successiva, dove copierà il valore di AX dentro DX.
 
+![execute](assets/images/execution.svg)
+
+Quindi si inizia l'esecizione da _Start_, quindi la _CU_ prenderà il controllo, dalla prima istruzione, quindi dove è stato settato l'_IP_ allo Start. la prima istruzione verrà quindi trovata `mov ax, 5`, verrà decodificata ed eseguita. Finita l'esecuzione la CU eseguirà lo step di incremento del _IP_, così la CU passerà all'istruzione successiva; questa sequenza cambia in caso di salto incondizionato.
+
+![execjmp](assets/images/execjmp.svg)
+
 ### Arithmetic Logic Unit
 
-Il funzionamento della ALU è semplicemente eseguire le operazioni aritmetiche di Addizione e Sottrazione e le operazioni logiche AND, OR e NOT (con tutte le combinazioni e varianti, come XOR, NAND, ecc.).
+Il funzionamento della **ALU** è semplicemente eseguire le operazioni aritmetiche di Addizione e Sottrazione e le operazioni logiche AND, OR e NOT (con tutte le combinazioni e varianti, come XOR, NAND, ecc.).
 
 ### Memory Management Unit
 
-La Memory Management Unit o MMU è una componente della CPU che si occupa della gestione della memoria tra sistema e hardware (Virtual Memory e Physical Memory) e la sicurezza, gestendo i permessi di accesso alla memoria e di read/write.
+La _Memory Management Unit_ o **MMU** è una componente della CPU che si occupa della gestione della memoria tra sistema e hardware (Virtual Memory e Physical Memory) e la sicurezza, gestendo i permessi di accesso alla memoria e di read/write. La _MMU_ si occupa poi anche della gestione dello spostamento dei dati tra CPU e Memoria Centrale e di conseguenza del buffer dati.

@@ -31,3 +31,31 @@ L'esecuzione inizia a `_start`, la prima istruzione eseguita sarà `mov r1, 5`, 
 Ora abbiamo una nuova istruzione, `add`, questa non fa altro che salvare nella destinazione `r3` la somma di `r2, r1`. Stessa logica per la successiva `sub`, salva nel registro `r3` la sottrazione tra `r3, r1`.
 
 Questo è un semplice esempio di programma in istruzioni assembly per processori ARM, quindi sistemi RISC.
+
+## Principali istruzioni
+
+Le principali istruzioni assembly sono:
+
+* `mov` - move `dest` < `src` 
+* `add` - add `dest` < `srcs` 
+* `sub` - sub `dest` < `srcs` 
+* `push` - push to stack `src` 
+* `pop` - pop first stack element to `dest` 
+* `jmp` - force jump to `addr`
+* `call` - call `function`
+
+Prendendo in considerazione che il programma inizi a `0xF000`:
+```as
+mov r1, 5
+mov r2, 10
+add r3, r2, r1
+sub r3, r1
+push r3
+call print
+pop r3
+jmp $0xF000
+```
+
+Come il precedente esempio, le prime 4 istruzioni eseguono operazioni di copia, addizione e sottrazione.
+
+Poi abbiamo l'istruzione `push`, che invia nello stack il valore di `r3`, successivamente chiamiamo una fantomatica funzione _print_, la quale salverà lo stato attuale dei registri e l'instruction pointer prima della chiamata, e successivamente passerà ad eseguire la funzione. Questa funzione stamperà a schermo l'ultimo valore salvato nello stack, in questo caso quello di `r3`, finita l'esecuzione di print, l'esecuzione tornerà al programma principale, quindi rimuoveremo l'ultimo elemento inserito nello stack (quindi il primo nell'elenco), e lo inseriamo in r3. Alla fine faremo un salto incondizionato a `0xF000` (preceduto da _$_, per dire che è un indirizzo), quindi il programma reinizierà con un ciclo infinito, finché quindi non sarà l'utente ad fermare l'esecuzione.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Il Kernel
+title: Kernel
 permalink: /kernel/
 ---
 
