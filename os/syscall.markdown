@@ -1,7 +1,9 @@
 ---
 layout: page
 title: System Call
-permalink: /syscall/
+permalink: /os/syscall/
+parent: Sistemi Operativi
+nav_order: 6
 ---
 
 # Le System Call
@@ -14,5 +16,5 @@ Per richiamare una System Call prendiamo come esempio una funzione `call(args)`.
 
 Nell'immagine qua sotto, le frecce gialle indicano il percorso di esecuzione della System Call, le frecce blu i return.
 
-![syscall](assets/images/syscall.svg)
+![syscall](../assets/images/syscall.svg)
 

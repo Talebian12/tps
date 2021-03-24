@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Memory Management
-permalink: /memmgmt/
+permalink: /os/memmgmt/
+parent: Sistemi Operativi
+nav_order: 5
 ---
 
 # Memory Management
@@ -13,7 +15,7 @@ Il Memory Management (o in italiano Gestione della Memoria) è quella funzione d
 Il Memory Management possiamo ritrovarlo ad esempio alla creazione di un processo. Quando un processo viene creato, la funzionalità di Memory Management creerà uno spazio in memoria RAM dedicato a quel programma, con i vari segmenti necessari, per il codice, per i dati (segmento _data_ per variabili globali e costanti locali inizializzate, segmento _bss_ per quelle non inizializzate, _stack_ per le variabili locali e le funzioni chiamate) e per le allocazioni dinamiche (_heap_).
 Il Memory Management si occuperà poi di gestire ogni allocazione, deallocazione e modifica dei dati.
 
-![memlayout](assets/images/processmemlayout.jpg)
+![memlayout](../assets/images/processmemlayout.jpg)
 
 
 ## Memory Management nella Sicurezza
