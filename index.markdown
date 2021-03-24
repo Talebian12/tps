@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Info
-permalink: /info/
+title: Pagina Principale
+permalink: /
 nav_order: 1
 ---
 
