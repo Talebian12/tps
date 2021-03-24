@@ -1,9 +1,9 @@
 ---
 layout: page
 title: System Resources
-permalink: /sysresources/
+permalink: /os/sysresources/
 parent: Sistemi Operativi
-nav_order: 7
+nav_order: 8
 ---
 
 # System Resources

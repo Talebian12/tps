@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Linguaggio Macchina e Assembly 
-permalink: /assembly/
+permalink: /arch/assembly/
 parent: Struttura ed Architettura del PC
-nav_order: 4
+nav_order: 5
 ---
 
 # Il linguaggio Macchina

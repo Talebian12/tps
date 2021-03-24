@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Files
-permalink: /files/
-has_children: true
-has_toc: false
-nav_order: 2
-parent: Files
+title: File
+permalink: /files/file
+nav_order: 1
 ---
 
 # I Files

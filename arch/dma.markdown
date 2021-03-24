@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Direct Memory Access
-permalink: /dma/
+permalink: /arch/dma/
 parent: Struttura ed Architettura del PC
-nav_order: 3
+nav_order: 4
 ---
 
 # Direct Memory Access

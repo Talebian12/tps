@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Apertura ed Importazione
-permalink: /openimport/
+permalink: /files/openimport/
 parent: Files
-nav_order: 2
+nav_order: 3
 ---
 
 # Differenza tra Apertura di un file ed Importazione

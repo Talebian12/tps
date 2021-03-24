@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Partizioni
-permalink: /partitions/
+permalink: /os/partitions/
 parent: Sistemi Operativi
-nav_order: 6
+nav_order: 7
 ---
 
 # Partizioni

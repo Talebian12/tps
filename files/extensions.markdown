@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Estensioni File
-permalink: /ext/
+permalink: /files/ext/
 parent: Files
-nav_order: 1
+nav_order: 2
 ---
 
 # Le estensioni File

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Multitasking
-permalink: /multitasking/
+permalink: /os/multitasking/
 parent: Sistemi Operativi
-nav_order: 2
+nav_order: 3
 ---
 
 # Multitasking

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Central Processing Unit
-permalink: /cpu/
+permalink: /arch/cpu/
 parent: Struttura ed Architettura del PC
-nav_order: 1
+nav_order: 2
 ---
 
 # Central Processing Unit

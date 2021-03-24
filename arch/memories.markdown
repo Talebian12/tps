@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Memorie 
-permalink: /memories/
+permalink: /arch/memories/
 parent: Struttura ed Architettura del PC
-nav_order: 2
+nav_order: 3
 ---
 
 # Le Memorie

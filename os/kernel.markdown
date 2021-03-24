@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Kernel
-permalink: /kernel/
+permalink: /os/kernel/
 parent: Sistemi Operativi
-nav_order: 1
+nav_order: 2
 ---
 
 # Il Kernel

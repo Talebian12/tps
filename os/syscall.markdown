@@ -1,9 +1,9 @@
 ---
 layout: page
 title: System Call
-permalink: /syscall/
+permalink: /os/syscall/
 parent: Sistemi Operativi
-nav_order: 5
+nav_order: 6
 ---
 
 # Le System Call
