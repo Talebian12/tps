@@ -2,6 +2,7 @@
 layout: page
 title: Direct Memory Access
 permalink: /dma/
+parent: Struttura ed Architettura del PC
 ---
 
 # Direct Memory Access

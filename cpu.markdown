@@ -2,6 +2,7 @@
 layout: page
 title: Central Processing Unit
 permalink: /cpu/
+parent: Struttura ed Architettura del PC
 ---
 
 # Central Processing Unit

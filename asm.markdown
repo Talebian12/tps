@@ -2,6 +2,7 @@
 layout: page
 title: Linguaggio Macchina e Assembly 
 permalink: /assembly/
+parent: Struttura ed Architettura del PC
 ---
 
 # Il linguaggio Macchina

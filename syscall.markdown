@@ -2,6 +2,7 @@
 layout: page
 title: System Call
 permalink: /syscall/
+parent: Sistemi Operativi
 ---
 
 # Le System Call

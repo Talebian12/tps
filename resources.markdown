@@ -2,6 +2,7 @@
 layout: page
 title: System Resources
 permalink: /sysresources/
+parent: Sistemi Operativi
 ---
 
 # System Resources

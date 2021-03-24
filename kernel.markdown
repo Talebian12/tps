@@ -2,6 +2,7 @@
 layout: page
 title: Kernel
 permalink: /kernel/
+parent: Sistemi Operativi
 ---
 
 # Il Kernel

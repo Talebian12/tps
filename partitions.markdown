@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Partizioni
-permalink: /os/partitions/
+permalink: /partitions/
+parent: Sistemi Operativi
 ---
 
 # Partizioni

@@ -2,6 +2,7 @@
 layout: page
 title: Scheduler
 permalink: /os/scheduler/
+parent: Sistemi Operativi
 ---
 
 # Scheduler della CPU

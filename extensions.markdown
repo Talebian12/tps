@@ -2,6 +2,7 @@
 layout: page
 title: Estensioni File
 permalink: /ext/
+parent: Files
 ---
 
 # Le estensioni File

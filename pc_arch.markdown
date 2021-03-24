@@ -2,6 +2,8 @@
 layout: page
 title: Struttura ed Architettura del PC
 permalink: /arch/
+has_children: true
+has_toc: false
 ---
 
 # Struttura ed Architettura del PC

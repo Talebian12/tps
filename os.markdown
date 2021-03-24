@@ -2,6 +2,8 @@
 layout: page
 title: Sistemi Operativi
 permalink: /os/
+has_children: true
+has_toc: false
 ---
 # Il Sistema Operativo
 

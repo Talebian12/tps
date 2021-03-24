@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Le Memorie 
+title: Memorie 
 permalink: /memories/
+parent: Struttura ed Architettura del PC
 ---
 
 # Le Memorie
