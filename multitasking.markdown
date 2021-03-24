@@ -19,6 +19,8 @@ Nei sistemi _time-sharing_ si permette invece un corretto funzionamento della mu
 
 ![multitasking](assets/images/multitasking.png)
 
+Come possiamo vedere, in un sistema sequenziale, quindi monoprogrammato, i task vengono eseguiti uno per volta; nei momenti di uso della CPU non avvengono operazioni di I/O, viceversa durante i momenti di uso dell'I/O. Questa cosa non avviene nei sistemi multiprogrammati, dove le operazioni vengono eseguite in simultanea tra CPU e I/O, così da poter ridurre i tempi e massimizzare l'efficienza.
+
 ## CPU e I/O Bound
 Si dice CPU bound un processo che esegue una grande quantità di operazioni computazionali e poche, se non alcuna operazione di I/O, viceversa si dice I/O bound un processo che esegue molte operazioni di I/O rispetto ad un basso uso della CPU. In questo caso possiamo vedere i vantaggi del multitasking, dove si eliminano i tempi morti dove durante operazioni CPU bound l'I/O non viene usato e viceversa per l'I/O bound.
 

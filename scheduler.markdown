@@ -9,15 +9,15 @@ permalink: /os/scheduler/
 Lo Scheduler della CPU come detto nella sezione _Sistemi Operativi_, essi servono per decidere che processi eseguire e gestire quindi la process queue.
 Gli Scheduler dipendono dal tipo di sistema in uso, se Interactive, Batch o Real-Time.
 
-### Batch Systems
-I Batch Systems sono i più semplici, essi gestiscono i processi principalmente in due modi, ordinandoli per il processo più corto o per quello con il tempo di esecuzione rimanente minore.
-
 ### Interactive Systems
 Gli Interactive Systems sono i più diffusi, i moderni sistemi operativi per PC e Smartphone sono Interactive. Questi hanno vari sistemi per lo scheduling, alcuni sono:
 - Shortest Process Next Scheduler: il processi vengono ordinati per la durata di essi, prima i più corti.
 - Scheduling "Round-robin": qui si definisce il tempo che si assegna per l'esecuzione di un processo e alla fine di questo, se completato verrà quindi superato, sennò verrà spostato alla fine della catena di esecuzione, gli stati dei registri verranno salvati e l'esecuzione passerà al processo successivo. Lo scheduler I/O invece gestisce la priorità della scrittura in memoria da parte dei processi.
+  
 ![round](/assets/images/round_robin.png)
+
 - Scheduling basato su priorità: è la tipologia più diffusa, perché più efficiente e adeguata ai nuovi sistemi, ad esempio dedicando ogni classe di priorità ad un core, la priorità dei processi viene decisa dinamicamente dal sistema in base alla durata stimata per l'esecuzione, la priorità di uso (se in background o un processo in uso) e sui moderni sistemi, il sistema riconosce gli usage pattern dell'utente grazie all'intelligenza artificiale.
+  
 ![priority](/assets/images/priority.png)
 
 ### Real-Time Systems
