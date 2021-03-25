@@ -16,6 +16,7 @@ Qui abbiamo un elenco dei macroargomenti trattati:
 
 ### Architettura del Computer
 * [Struttura generale di un Elaboratore](arch/pc_arch.markdown)
+* [Scheda Madre](arch/mobo.markdown)
 * [La CPU](arch/cpu.markdown)
 * [Le Memorie](arch/memories.markdown)
 * [Il DMA e SPOOL](arch/dma.markdown)
