@@ -3,7 +3,7 @@ layout: page
 title: Central Processing Unit
 permalink: /arch/cpu/
 parent: Computer Architecture
-nav_order: 2
+nav_order: 3
 ---
 
 # Central Processing Unit

@@ -3,7 +3,7 @@ layout: page
 title: Memorie 
 permalink: /arch/memories/
 parent: Computer Architecture
-nav_order: 3
+nav_order: 4
 ---
 
 # Le Memorie
