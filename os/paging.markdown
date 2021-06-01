@@ -16,7 +16,7 @@ Il paging sfrutta spazi di memoria virtuali, di determinate dimensioni, allocati
             padding: 20px; 
             text-align: center; 
             border-radius: 20px"> 
-<img src="assets/images/paging-fragmentation.svg">
+<img src="/assets/images/paging-fragmentation.svg">
 </div>
 
 Creando spazi di memoria virtuali, è possibile aumentare anche la sicurezza, assegnando ad ogni spazio virtuale flags specifici per il tipo di operazioni che su di esso si possono eseguire. Viene quindi creata una tabella che contiene il numero della pagina (_page_), dove è presente essa nella memoria fisica (_frame_) e gli attributi della pagina (_flags_).
@@ -25,7 +25,7 @@ Creando spazi di memoria virtuali, è possibile aumentare anche la sicurezza, as
             padding: 20px; 
             text-align: center; 
             border-radius: 20px"> 
-<img src="assets/images/page-tables.svg">
+<img src="/assets/images/page-tables.svg">
 </div>
 
 ## Vantaggi del Paging e Page Fault
