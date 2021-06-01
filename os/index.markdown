@@ -12,6 +12,7 @@ nav_order: 4
 * [Mulitasking o Multiprogrammazione](multitasking.markdown)
 * [Scheduling dei processi](scheduler.markdown)
 * [Memory Management](memmgmt.markdown)
+* [Partitioned Memory](partmem.markdown)
 * [System Calls](syscall.markdown)
 * [File System e Partizioni](partitions.markdown)
 * [Risorse di sistema](resources.markdown)
