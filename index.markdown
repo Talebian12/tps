@@ -28,6 +28,8 @@ Qui abbiamo un elenco dei macroargomenti trattati:
 * [Mulitasking o Multiprogrammazione](os/multitasking.markdown)
 * [Scheduling dei processi](os/scheduler.markdown)
 * [Memory Management](os/memmgmt.markdown)
+* [Partitioned Memory](os/partmem.markdown)
+* [Memory Paging](os/paging.markdown)
 * [System Calls](os/syscall.markdown)
 * [File System e Partizioni](os/partitions.markdown)
 * [Risorse di sistema](os/resources.markdown)

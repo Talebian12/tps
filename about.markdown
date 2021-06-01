@@ -9,6 +9,7 @@ Fonti e Immagini:
 - **Modern operating systems** - _Andrew S. Tanenbaum, Herbert Bos_
 - **Operating System Concepts, 9th edition** - _A. Silberschatz_
 - **Structured Computer Organization** - _Andrew S. Tanenbaum, Todd Austin_
+- **Writing an OS in Rust** - _Philipp Oppermann_ - [Writing an OS in Rust](https://os.phil-opp.com/)
 - **Intel® 64 and IA-32 Architectures Software Developer’s Manual Combined Volumes: 1, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D and 4** - _Intel_
 - [**OSDev Wiki**](https://wiki.osdev.org/)
 
